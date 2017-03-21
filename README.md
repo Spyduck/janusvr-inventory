@@ -2,9 +2,10 @@
 
 ## Installation
 Requires IPFS running: https://ipfs.io/
-
+Requires composer: https://getcomposer.org/
 ```
-$ composer require spyduck/janusvr-inventory
+$ git clone https://github.com/Spyduck/janusvr-inventory.git
+$ cd janusvr-inventory/inventory/php
 $ composer install
 ```
 
