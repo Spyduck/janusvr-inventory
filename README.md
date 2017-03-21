@@ -9,11 +9,12 @@ $ cd janusvr-inventory/inventory/php
 $ composer install
 ```
 
-PHP scripts need to be available at: 
+PHP scripts need to be available at:
+```
 (host prefix)/inventory/add
 (host prefix)/inventory/addjson
 (host prefix)/inventory/catjson
-
+```
 Example:
 ```
 <Directory /var/www/html>
